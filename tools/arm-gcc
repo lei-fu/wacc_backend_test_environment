@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+arm-linux-gnueabi-gcc -mcpu=arm1176jzf-s -mtune=arm1176jzf-s $@

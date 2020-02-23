@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+qemu-arm -L /usr/arm-linux-gnueabi/ $@
