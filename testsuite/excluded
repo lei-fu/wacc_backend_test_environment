@@ -10,7 +10,6 @@ valid/IO/read/read.wacc
 valid/advanced/binarySortTree.wacc
 valid/advanced/hashTable.wacc
 valid/advanced/ticTacToe.wacc
-valid/advanced/ticTacToe.wacc~
 valid/function/nested_functions/fibonacciFullRec.wacc
 valid/function/nested_functions/printInputTriangle.wacc
 valid/pairs/readPair.wacc
